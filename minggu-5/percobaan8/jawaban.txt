@@ -1,0 +1,8 @@
+Percobaan 8
+
+Pada saat pengcompilean ada beberapa warning.
+
+hasil pada list.css adalah id bg sebanyak panjang array.
+pada file list.scss terdapat variabel array, yang kemudian dipanggil satu persatu dengan fungsi @each
+setiap array kemudian menjadi satu id (karena didalam @each membuat id), sehingga dihasilkanlah 5 buah id 
+dengan isi dari 5 buah array tersebut.
