@@ -1,0 +1,14 @@
+1. pernah, ketika salah memasukan url pada "meta HTTP-EQUIV="REFRESH" content="0; url=".
+
+2. setelah diedit dengan <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> halaman 
+   akan dipindahkan ke googel.co.id setelah 5 detik.
+
+3. thead = thead digunakan untuk mengelompokkan isi atau konten yang berada di bagian atas (kepala) 
+   pada sebuah tabel.
+   tbody = untuk mengelompokkan konten atau isi yang terletak pada bagian tengah (tubuh) sebuah tabel.
+   Tag <tbody> harus disertakan kecuali tabel hanya berisi satu tabel body dan tidak mempunyai tabel 
+   head atau tabel foot.
+   tr = row -> baris pada tabel
+   th = head -> menunjukkan cell induk dan ditandai dengan tulisan cetak tebal.
+   td = data -> menunjuk cell
+   
