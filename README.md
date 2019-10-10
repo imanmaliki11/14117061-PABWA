@@ -1,4 +1,0 @@
-# 14117061-PABWA
-Praktikum WEB RA
-Iman Maliki
-14117061
