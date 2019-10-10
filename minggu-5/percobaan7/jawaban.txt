@@ -1,7 +1,0 @@
-Percobaan 7
-
-Pada file .css nilai nilai yang ada operasi matematikanya pada file .scss akan 
-diubah menjadi hasil dari perhitungannya.
-
-misal pada file .scss ada " width: 600px / 960px * 100%; " 
-maka pada file .css akan menjadi " width: 62.5%; "
