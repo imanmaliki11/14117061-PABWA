@@ -1,5 +1,0 @@
-percobaan 4
-pada file main.css bagian kode
-@import 'reset.scss'; ----> akan digantikan dengan kode yang terdapat pada file _reset.scss
-ini karena fungsi import, yang bertujuan agar kita dapat memasukan kode dari file scss/sass yang sudah ada
-kedalam file css tanpa mengetik ulang.
